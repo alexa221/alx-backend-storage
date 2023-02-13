@@ -1,5 +1,5 @@
 # alx-backend-storage 
-This repository contains all database projects implemented with MySQL advanced using NoSQL like Mongodb, Postgrel SQL.
+This repository contains all Advanced database projects implemented with NOSQL databases like Mongodb, Postgrel SQL.
  
 
 
